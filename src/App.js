@@ -1,7 +1,8 @@
+import Checkbox from "./components/Checkbox";
 function App(props) {
   return (
     <>
-      <h1>App.js</h1> 
+      <Checkbox />
     </>
   );
 }
